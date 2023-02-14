@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dknorrmiller
+- 👋 Hi, I’m Daniel Miller
 - 👀 I’m interested in learn and work with programming.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on Python and Data Science projects.
