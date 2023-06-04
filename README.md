@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Miller
-- 👀 I’m interested in learn and work with programming.
+- 👀 I’m interested in learn and work with Banking, Finance and Data Analysis.
 - 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on Python and Data Science projects.
 - 📫 You can contact me by e-mail to dknorrmiller@gmail.com
